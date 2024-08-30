@@ -1,4 +1,3 @@
-from setuptools import setup, find_packages
 setup(
 name="perplexityai",
 version="0.1",
